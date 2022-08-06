@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm 0X31</h1>
+
 - 🔭 I’m currently working on **MCVR**
+
 - 📫 How to reach me **0x31#3039**
 
 <h3 align="left">Connect with me:</h3>
