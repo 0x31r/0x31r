@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0X31</h1>
 
-- 🔭 I’m currently working on **MCVR**
-
 - 📫 How to reach me **0x31#3039**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haise-Dev)](https://github.com/anuraghazra/github-readme-stats)
