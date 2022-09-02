@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 0X31</h1>
+<h1 align="center">Hi 👋, I'm 0x31</h1>
 
 - 📫 How to reach me **0x31#3039**
 
