@@ -9,6 +9,7 @@ fields_of_interest:
     "Physics",
     "Game Development",
     "Web Development",
+    "Cyber Security",
   ]
   
 currently_learning:
