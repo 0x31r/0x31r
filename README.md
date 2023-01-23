@@ -1,5 +1,6 @@
 ```yaml
 name: 0x31
+discord: 0x31#1010
 country: Norway
 current_occupation: Student
 fields_of_interest:
