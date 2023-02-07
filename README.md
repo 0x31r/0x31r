@@ -20,7 +20,7 @@ fields_of_interest:
     "Game Development",
     "Web Development",
     "Cyber Security",
-    "Computers",
+    "Computers"
   ]
   
 languages_i_use:
@@ -30,7 +30,7 @@ languages_i_use:
     "JavaScript",
     "HTML",
     "CSS",
-    "Python",
+    "Python"
   ]
 
 technologies_i_use:
@@ -39,7 +39,7 @@ technologies_i_use:
     "Photoshop",
     "Blockbench",
     "Blender",
-    "Git",
+    "Git"
   ]
 currently_learning:
   [
