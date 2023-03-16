@@ -9,7 +9,7 @@
 ####################################
 
 name: 0x31
-discord: 0x31#1010
+discord: 0x31#2509
 country: Norway
 current_occupation: Student
 operating_system: Linux (Arch)
