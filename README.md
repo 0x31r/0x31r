@@ -9,7 +9,7 @@
 ####################################
 
 name: 0x31
-discord: 0x31#2509
+discord: 0x31
 country: Norway
 current_occupation: Student
 operating_system: Windows
